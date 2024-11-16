@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SimpleX Chat Users Group",
+    "description": "A safe place for members to chat and share updates.",
+    "url": "https://example.com",
+    "tags": ["privacy", "chat", "updates"]
+  },
+  {
+    "name": "Informative News",
+    "description": "Stay informed with the latest news and updates.",
+    "url": "https://informative-news.example.com",
+    "tags": ["news", "updates"]
+  }
+]
