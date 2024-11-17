@@ -65,9 +65,9 @@ fn render_groups(search_term: Option<String>) -> RawHtml<String> {
                 <td>{}</td>
                 <td>{}</td>
                 <td><ul>{}</ul></td>
-                <td><a href=\"{}\">{}</a></td>
+                <td><a href=\"{}\">Join Group</a></td>
             </tr>",
-            group.name, group.description, tags_html, group.url, group.url
+            group.name, group.description, tags_html, group.url
         ));
     }
 
