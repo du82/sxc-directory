@@ -6,15 +6,107 @@
     "tags": ["privacy", "chat", "updates"]
   },
   {
-    "name": "Informative News",
-    "description": "Stay informed with the latest news and updates.",
-    "url": "https://informative-news.example.com",
-    "tags": ["news", "updates"]
+    "name": "Private Messaging Apps",
+    "description": "A *public group* for talking about and _listing_ !4 all private messengers! (focused on !3 security & anonymity!) and discussing _comparisons_ between them. All !1 recommended apps! should be *FOSS* #(free & open source)# and ideally be able to use *TOR* #(the onion network)# to _easily connect_ and !5 safely communicate anonymously!.",
+    "url": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FLctuxJCyGpS9HEH5kxLzTc-mOKhQqJDq%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAWCOBlvybS-jprezfKyR2UhEhMAvTjsIpxkdego5x8mA%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22uBGGDZTi8pIC9e20gjYPQQ%3D%3D%22%7D",
+    "tags": ["privacy", "security", "messaging", "apps", "tor", "foss"]
   },
   {
     "name": "Monero",
     "description": "The most widely used cryptocurrency which does not intent to compromise on privacy, security, or sustainability",
     "url": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2Fo3W26CbJDR8abO4QG7Cvl7HM1WbKt5kO%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAZLrvRhnIYDQjjyAgTnuDbZ5fhMRhA9BTBRblkqMtsQc%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22XENmd9XeJ0rcB900hulObg%3D%3D%22%7D",
     "tags": ["monero", "xmr", "crypto"]
+  },
+  {
+    "name": "Monero Directory",
+    "description": "A place to find Monero accepting businesses. You can also list your Monero accepting business. Discussions and reviews of businesses that accept Monero as a payment method. ",
+    "url": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2Fn6hgxvURoH0RakdesnHasKCs0i_elvD3%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEA6Yp04blAhBbVDGXxv7SD_CuyI9KTcrH9OqVAuaQbR0w%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%2298Glx51gYhRlU-VG_Mp3iA%3D%3D%22%7D",
+    "tags": ["monero", "xmr", "crypto", "businesses", "directory"]
+  },
+  {
+    "name": "SOS (Software Operating Systems)",
+    "description": "_The Present Dark Ages and The Bright Future_ The group to talk about the pros and cons of the existing software operating systems (Debian, Ubuntu, Tails, Whonix, Arch, MacOS, Windows, etc.) and to debate what the future might look like, beyond Linux. No NSFW content. ",
+    "url": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FmU6V6C7tyEMkhXM9q-GAhx1RUPtA8wrb%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAERI8cwr_nB4M0KauKIvGhA-LOQTm3sbX185quEvKbGk%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22jmQNAQBUsp3awcLY8ZjRzw%3D%3D%22%7D",
+    "tags": ["os", "operating systems", "linux", "macos", "windows", "debate"]
+  },
+  {
+    "name": "Bitcoin & Lightning Network",
+    "description": "This is a room about all things Bitcoin related.",
+    "url": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2F6dNk57UTVN7EF6r1O9LaOyI9Opx7Az9s%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEASuPrFrvyC44b-tgZpEu5dfDhN2HX1kKLOzIoR8UrBzY%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22GvuLoG20itjrTh8rVzR8Ig%3D%3D%22%7D",
+    "tags": ["bitcoin", "btc", "crypto", "lightning network"]
+  },
+  {
+    "name": "Linux",
+    "description": "The Original Linux group. GNU, Free Software, Libre Software, Open Source, FOSS, Copyleft, Privacy",
+    "url": "https://simplex.chat/contact#/?v=2-5&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FyqEGWTToGKbrWmThjlYn2JFj2ahfsm1g%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA3LtNjNVOj9k25rV-5lAJx2VAeJMe9x60iqsvewdyAnA%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22-ZENDCBAo2xnpEqtiXJOEQ%3D%3D%22%7D",
+    "tags": [
+      "linux",
+      "gnu",
+      "free software",
+      "libre software",
+      "open source",
+      "foss",
+      "copyleft",
+      "privacy"
+    ]
+  },
+  {
+    "name": "QubesOS",
+    "description": "This is the unofficial SimpleX group chat about Qubes OS! Ask away your questions and help others. Be nice or be gone!",
+    "url": "https://simplex.chat/contact#/?v=2-6&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2F-RBno2dbxywZ8cfyj0BY9hngWCKjzvyE%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAGivM8P512XZB21fV7x0pDixbrWkKF0v4Y8u6PybexxI%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22iKy3t79JmhOQ4KPn0zRrVg%3D%3D%22%7D",
+    "tags": ["qubesos", "qubes", "security", "privacy", "os"]
+  },
+  {
+    "name": "Podcasts",
+    "description": "A place to share and discuss podcasts.",
+    "url": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2F4oW_BFcroZ7cfRIrF10xvGeVmG_vqJ_o%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAJPzVu21P7mG7YdhUn06XURX-tE_B2dUKk-6VbCZA7Q0%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22yhtBULywNvbvlspPAwpHvA%3D%3D%22%7D",
+    "tags": ["podcasts", "audio", "discussion"]
+  },
+  {
+    "name": "SimpleX Themes",
+    "description": "A simple group to share and discuss your SimpleX themes. !4 ➡️ send a theme file you made go to: Settings > Appearance > Customize theme > Export theme, choose a folder and then upload it to chat from there! !6 ➡️ apply a theme you like download the file, then go to: Settings > Appearance > Customize theme > Import theme, and choose the file you downloaded! ➡️ download older themes that have been archived go to https://slcw.github.io/SimpleX-Themes",
+    "url": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FjwFqICow91mcVNxBF2GXXF5Uq4H27goC%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAOYs_RwIB67iDC_ORPmBpp-oED4Ric3oYkID4kdkMdGs%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22jpatHRdLkjwNmbWBc-VWcg%3D%3D%22%7D",
+    "tags": ["simplex", "themes", "customization", "css", "design"]
+  },
+  {
+    "name": "Podcasts",
+    "description": "A place to share and discuss podcasts.",
+    "url": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2F4oW_BFcroZ7cfRIrF10xvGeVmG_vqJ_o%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAJPzVu21P7mG7YdhUn06XURX-tE_B2dUKk-6VbCZA7Q0%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22yhtBULywNvbvlspPAwpHvA%3D%3D%22%7D",
+    "tags": ["podcasts", "audio", "discussion"]
+  },
+  {
+    "name": "Русский SimpleX",
+    "description": "Добропожаловать. Первый Русский SimpleX канал приветствует вас. Это информацинный канал, для публикации Российских новостей, музыки, аудиокниг и т.п. Воздержитесь от: хамства, спама, нацизма, фашизма и шовинизма.",
+    "url": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FPspH59ug5rYywP-JOFxanIhHge-2F0h6%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAINSmHlAedLcRpBo-YPyJvf3thxJW9-AW-6YE2WZObnQ%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%221HnhXsxrULbaCjvwbxgbZA%3D%3D%22%7D",
+    "tags": ["russian", "news", "music", "audiobooks", "информация"],
+    "members": 263
+  },
+  {
+    "name": "Steam Deck Gaming",
+    "description": "Steam Deck Gaming group",
+    "url": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FjyWLpZ4KzHpfhRmZZMVk_UXCzR_mc4BQ%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAhU6ZKdvYB1KwkfhgC4ffMoJMf7BwQZCyNKwcYT_GLwU%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22Q-GNG90MSpM5gTL_QWd5-g%3D%3D%22%7D",
+    "tags": ["gaming", "steam", "steam deck", "gaming discussion"],
+    "members": 3
+  },
+  {
+    "name": "Dharma",
+    "description": "Welcome, A safe space for all the sects and \"religions\" that share their origin in the Indian subcontinent. You are free to share your opinions, ask queries and negate difference. Try to be respectful... We are nobody to judge. Hence you be the judge for your actions online.",
+    "url": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2F9-OWObDv5vlNJmIvsPkRNYM6mQ52wCtD%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAQ6CYcjtUlcw8bYoIWc32FzzSXppRL-je4OZTCVl5Ug4%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22ZG_TcnY-CptTmjOz1rZ7XQ%3D%3D%22%7D",
+    "tags": ["dharma", "religion", "spirituality", "india", "discussion"],
+    "members": 10
+  },
+  {
+    "name": "OSM Mappers and Users",
+    "description": "Welcome to the unofficial Open Street Map mappers and users group. Feel free to share your experiences, latest map changes, favorite OSM navigation map, or anything else OSM-related. You are encouraged to use an anonymous profile in this group. If you plan to mention your OSM username or map edits in this group, please know that using a standard SimpleX profile in this group *will* make it possible to know more about your location, and other metadata associated with your OSM account, across other SimpleX groups, unless you join this group anonymously. The rules are pretty standard: - No NSFW content - Be civil - Stay on topic",
+    "url": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FmA_1k5Jc4knpFSgsDyQ64cAxFKCtKO44%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAhFIHE4tVT-2F8wkKs1rALC7BTxE8qdNx2lwlcRb88DY%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%228-asYC1Ec3Df7_kqLuNZlQ%3D%3D%22%7D",
+    "tags": ["osm", "openstreetmap", "mapping", "navigation", "cartography"],
+    "members": 55
+  },
+  {
+    "name": "Privacy Hub - Pakistan",
+    "description": "!2 A group for Pakistani people! This server aims to provide a safe space where we can discuss issues of free expression, Politics, online privacy and much more free from the reaches of Establishment. Here, you can share your stories, experiences, tips, Memes & Much more. Rules: Respect each other, Stay toxic free & Have fun <3",
+    "url": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FMLeyy35J7uPdumjXbRF06CvBJsMBy2xS%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAn1rYqbkuazpfO4tNNrDGUh-1WeCmUDncytPEUxQAyT8%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22okpksfz2MDk4LJQPQCUjfw%3D%3D%22%7D",
+    "tags": ["privacy", "pakistan", "politics", "free expression", "memes"],
+    "members": 11
   }
 ]

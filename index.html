@@ -11,7 +11,6 @@
                 margin: 0;
                 padding: 0;
                 display: flex;
-                justify-content: center;
                 align-items: center;
                 height: 100vh;
                 flex-direction: column;
@@ -75,18 +74,38 @@
                 font-size: 16px;
                 border: none;
                 border-radius: 4px;
-                background-color: #3498db;
+                background-color: #1e7fbe;
                 color: #fff;
                 cursor: pointer;
             }
             input[type="submit"]:hover {
                 background-color: #2980b9;
             }
+            button {
+                padding: 10px 20px;
+                font-size: 16px;
+                border: none;
+                border-radius: 4px;
+                background-color: #465481;
+                color: #fff;
+                cursor: pointer;
+                margin-left: 10px;
+            }
+            button:hover {
+                background-color: #c0392b;
+            }
+            footer {
+                text-align: center;
+                color: #e2e2e2;
+            }
         </style>
     </head>
     <body>
-        <h1>SimpleX Group Directory</h1>
+        <h1>Du's Unofficial<br />SimpleX Group Directory</h1>
         <form action="/search" method="get">
+            <button type="button" onclick="window.location.href='/'">
+                Clear
+            </button>
             <input
                 type="text"
                 name="term"
@@ -107,5 +126,10 @@
                 {{groups}}
             </tbody>
         </table>
+        <footer>
+            <a href="https://github.com/du82/sxc-directory">Source Code</a> |
+            <a href="https://github.com/du82/sxc-directory">Privacy</a> |
+            <a href="https://github.com/du82/sxc-directory">Contact</a>
+        </footer>
     </body>
 </html>
